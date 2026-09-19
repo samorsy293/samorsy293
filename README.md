@@ -1,114 +1,96 @@
-Pasted markdown.md
-File
+<h1 align="center">Hi there, I'm Sayed Morsy 👋</h1>
 
-تمام يا معلم ❤️ قرأت الـ README بتاعك، وفهمت هو معمول إزاي.
+<p align="center">
+  <b>Computer Science Student | Aspiring Software Engineer | Future Full Stack Developer</b>
+</p>
 
-الـ README ده عبارة عن GitHub Profile README، يعني صفحة بتظهر في بروفايلك على GitHub، وفيها معلومات عنك، مهاراتك، مشاريعك، وإحصائياتك.
+---
 
-هنعمل واحد شبهه في الشكل، لكن بالمعلومات بتاعتك إنت.
+## 👨‍💻 About Me
 
-📝 أولًا: محتاج منك المعلومات دي
+- 🎓 I'm a third-year Computer Science student.
+- 🚀 My goal is to become a Full Stack Developer.
+- 💻 Currently learning and improving my programming fundamentals.
+- 🌱 Studying C++, C#, Java, and Python.
+- 🗄️ Interested in SQL and Database Systems.
+- 🔧 Learning Git and GitHub for version control and collaboration.
+- 📚 I believe in continuous learning, practice, and building real projects.
 
-جاوب على الأسئلة دي واحدة واحدة، ومش لازم تكون عارف كل حاجة.
+---
 
-1️⃣ المعلومات الشخصية
-اسمك إيه؟ (الاسم اللي عايز يظهر على GitHub)
-تحب نكتب إيه تحت اسمك؟
-Computer Science Student
-Software Developer
-Backend Developer
-حاجة تانية؟
-تحب الـ README يكون بالإنجليزي ولا عربي ولا الاتنين؟
-2️⃣ About Me 👨‍💻
-إنت بتدرس إيه حاليًا؟ (Computer Science / Information Technology / غيره)
-إنت في سنة كام؟
-إيه هدفك في البرمجة؟
-Backend Developer
-Full Stack Developer
-Software Engineer
-AI / Machine Learning
-لسه بتستكشف
-3️⃣ Programming Skills 🛠️
+## 🛠️ Skills & Technologies
 
-فاكر إنك بتدرس C++ وC# وJava، فمحتاج أعرف مستواك في كل واحدة:
+### Programming Languages
 
-Language	مستواك
-C++	Beginner / Intermediate / Advanced
-C#	Beginner / Intermediate / Advanced
-Java	Beginner / Intermediate / Advanced
-Python	Beginner / Intermediate / Advanced
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Beginner-512BD4?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Beginner-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white)
 
-وكمان:
-7. بتعرف HTML وCSS؟
-8. بتعرف SQL أو Database؟
-9. بتستخدم Git وGitHub؟
+### Database & Tools
 
-4️⃣ مشاريعك 🚀
-عندك مشاريع عملتها قبل كده؟
-مشروع iqraaly بتاع مساعدة الأشخاص اللي عندهم Dyslexia، عايز تضيفه في الـ README؟
-عندك مشاريع تانية؟ اكتبلي أسماءها باختصار.
-5️⃣ روابط التواصل 🔗
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Learning-181717?style=flat&logo=github&logoColor=white)
 
-لو عايز تضيفها:
-13. GitHub Username بتاعك إيه؟
-14. عندك LinkedIn؟
-15. عندك Portfolio أو أي رابط تاني؟
+---
 
-💡 نبدأ بسهولة
+## 🎯 Current Goals
 
-جاوبني على أول 6 أسئلة بس دلوقتي، وأنا هظبطلك باقي الأسئلة على حسب إجاباتك.
+- Strengthen my programming fundamentals.
+- Improve my problem-solving and logical thinking.
+- Learn front-end development.
+- Learn back-end development.
+- Build complete full-stack applications.
+- Practice working with databases and APIs.
+- Develop real-world projects and improve my GitHub profile.
 
-ومش هنحط أي معلومة مش بتاعتك، ولا مهارة لسه متعلمتهاش. 💪
+---
 
-Sayed Morsy    all in English 
+## 📂 Projects
 
-Great, Sayed! We'll make your GitHub Profile README entirely in English.
+### 📖 Iqraaly
 
-I just need these details:
+A project designed to help people with dyslexia and reading difficulties.
 
-Your title:
-Computer Science Student
-Software Developer
-Aspiring Software Engineer
-Other?
-What do you study? (Computer Science, IT, etc.)
-Your current year: (1st, 2nd, 3rd, 4th, graduate?)
-Your main goal:
-Backend Developer
-Full Stack Developer
-Software Engineer
-AI/ML Engineer
-Still exploring
-Your skill levels:
-C++: Beginner / Intermediate / Advanced
-C#: Beginner / Intermediate / Advanced
-Java: Beginner / Intermediate / Advanced
-Python: Beginner / Intermediate / Advanced
-Do you know any of these?
-HTML/CSS
-SQL/Databases
-Git/GitHub
+> More details and project links will be added soon.
 
-Answer these, and we'll build a README that represents you, Sayed Morsy, not the original template owner.
+---
 
-1 as you write 2  computer science 3 third 4 full stack 5 beginner in all 6 sql/db/github 
+## 📈 Learning Roadmap
 
-Perfect, Sayed! 🎉 I created your personalized GitHub Profile README in English.
+- [ ] Programming Fundamentals
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Data Structures and Algorithms
+- [ ] HTML & CSS
+- [ ] JavaScript
+- [ ] Front-End Framework
+- [ ] Back-End Development
+- [ ] SQL and Database Design
+- [ ] REST APIs
+- [ ] Full Stack Projects
 
-📄 
-Download Sayed Morsy's README
+---
 
-It includes:
+## 📊 GitHub Statistics
 
-Your name and career goal
-Computer Science student information
-Your programming skills
-SQL, Git, and GitHub
-Full Stack Developer roadmap
-Your Iqraaly project
-GitHub statistics placeholders
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" alt="Sayed's GitHub Stats" />
+</p>
 
-Next step: Send me your GitHub username, and I'll customize the links and statistics for you. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-Sayed_Morsy_GitHub_Profile_README.md
-Document
+---
+
+## 📫 Connect With Me
+
+- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+
+---
+
+<p align="center">
+  <i>"Learning every day. Building step by step."</i>
+</p>
