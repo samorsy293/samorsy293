@@ -79,7 +79,7 @@ A project designed to help people with dyslexia and reading difficulties.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME](https://www.linkedin.com/in/sayed-m-7114963a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjGx3%2FN31QzmGgu0YpYbCtA%3D%3D)&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
