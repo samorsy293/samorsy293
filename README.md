@@ -87,7 +87,7 @@ A project designed to help people with dyslexia and reading difficulties.
 ## 📫 Connect With Me
 
 - GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/sayed-m-7114963a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjGx3%2FN31QzmGgu0YpYbCtA%3D%3D))
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/sayed-m-7114963a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjGx3%2FN31QzmGgu0YpYbCtA%3D%3D))
 
 ---
 
